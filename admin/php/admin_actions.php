@@ -13,6 +13,7 @@ $_SESSION['error']=[
 ];
      header('Location:../');
     }
+    
 }
 if(isset($_GET['logout'])){
 session_destroy();

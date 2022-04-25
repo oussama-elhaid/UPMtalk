@@ -15,6 +15,7 @@ if(isset($_GET['verify_user'])){
     echo json_encode($response);
 }
 
+
 if(isset($_GET['block_user'])){
    
     if(blockUserByAdmin($_POST['user_id'])){
