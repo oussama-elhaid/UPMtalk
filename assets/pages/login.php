@@ -4,7 +4,7 @@
             <form method="post" action="assets/php/actions.php?login">
                 <div class="d-flex justify-content-center">
 
-                    <img class="mb-4" src="assets/images/upmtalk.png" alt="" height="45">
+                    <img class="mb-4" src="assets/images/upmtalk.png" alt="" height="80">
                 </div>
                 <h1 class="h5 mb-3 fw-normal">Please sign in</h1>
 

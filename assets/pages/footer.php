@@ -122,6 +122,7 @@ if($not['read_status']==0){
       </div>
     </div>
   </div>
+  
 </div>
 
 

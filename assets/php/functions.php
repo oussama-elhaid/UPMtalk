@@ -495,7 +495,7 @@ function getPostById($user_id){
 
 }
 
-//for getting post
+//for getting post .
 function getPosterId($post_id){
     global $db;
  $query = "SELECT user_id FROM posts WHERE id=$post_id";

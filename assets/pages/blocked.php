@@ -20,6 +20,7 @@ global $user;
                     <a href="assets/php/actions.php?logout" class="btn btn-danger" type="submit">Logout</a>
 
 
+                    
 
                 </div>
 

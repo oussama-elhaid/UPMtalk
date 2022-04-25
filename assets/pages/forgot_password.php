@@ -29,6 +29,7 @@ if($action=='forgotpassword'){
                 <button class="btn btn-primary" type="submit">Send Verification Code</button>
 
     <?php
+    
 }
 ?>
    

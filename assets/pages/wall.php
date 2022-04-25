@@ -29,6 +29,7 @@ foreach($posts as $post){
 if($post['uid']==$user['id']){
     ?>
 
+
   <div class="dropdown">
 
   <i class="bi bi-three-dots-vertical" id="option<?=$post['id']?>" data-bs-toggle="dropdown" aria-expanded="false"></i>

@@ -82,6 +82,7 @@ if(checkBlockStatus($user['id'],$profile['id'])){
 </div>
 <?php
 }
+
 ?>
                    
                 </div>

@@ -23,6 +23,7 @@ if(isset($_GET['resended'])){
 <p class="text-success">Verification code resended !</p>
 
 <?php
+
 }
                 ?>
                 <?=showError('email_verify')?>

@@ -4,7 +4,7 @@
             <form method="post" action="assets/php/actions.php?signup">
                 <div class="d-flex justify-content-center">
 
-                    <img class="mb-4" src="assets/images/upmtalk.png" alt="" height="45">
+                    <img class="mb-4" src="assets/images/upmtalk.png" alt="" height="80">
                 </div>
                 <h1 class="h5 mb-3 fw-normal">Create new account</h1>
                 <div class="d-flex">
@@ -16,6 +16,7 @@
                         <input type="text" name="last_name" value="<?=showFormData('last_name')?>" class="form-control rounded-0" placeholder="username/email">
                         <label for="floatingInput">last name</label>
                     </div>
+                    
                 </div>
                 <?=showError('first_name')?>
                 <?=showError('last_name')?>

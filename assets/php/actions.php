@@ -30,7 +30,7 @@ if(isset($_GET['block'])){
 
 
 
-//for managaing signup
+//for managaing signup .
 if(isset($_GET['signup'])){
 $response=validateSignupForm($_POST);
 if($response['status']){
